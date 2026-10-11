@@ -1,0 +1,46 @@
+---
+title: Ontario Onion Order
+identifier: C.R.C., c. 218
+long_title: Order Granting Authority to Regulate the Marketing in Interprovincial and Export Trade of Onions Produced in Ontario
+type: regulation
+jurisdiction: ca
+language: en
+last_amended: 2006-03-22
+consolidated: 2025-07-25
+status: in_force
+enabling_authority: AGRICULTURAL PRODUCTS MARKETING ACT
+source: https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._218/
+retrieved: 2026-10-11
+---
+
+# Ontario Onion Order
+
+Order Granting Authority to Regulate the Marketing in Interprovincial and Export Trade of Onions Produced in Ontario
+
+## Short Title
+
+### Section 1
+
+This Order may be cited as the Ontario Onion Order.
+
+## Interpretation
+
+### Section 2
+
+In this Order,
+
+***Act*** means The Farm Products Marketing Act of Ontario; (***Loi***)
+
+***Board*** means The Farm Products Marketing Board of Ontario established under the Act; (***Régie***)
+
+***Commodity Board*** means The Ontario Onion Producers’ Marketing Board established pursuant to the Act; (***Office de commercialisation***)
+
+***onions*** means onions produced in Ontario; (***oignons***)
+
+***Provincial Regulations*** means Ontario Regulation 129/66 as amended by Ontario Regulations 111/67, 238/67 and 279/69, made by the Board pursuant to the Act. (***règlement provincial***)
+
+## Interprovincial and Export Trade
+
+### Section 3
+
+The Board and the Commodity Board are each authorized to regulate the marketing of onions in interprovincial and export trade and for such purposes may, with respect to persons and property situated within the Province of Ontario, exercise all or any powers like the powers exercisable by the Board that, pursuant to section 3 of the Provincial Regulations, have not been delegated to the Commodity Board and exercisable by the Commodity Board under sections 4, 5, 6 and 11 of the Provincial Regulations in relation to the marketing of onions locally within that Province.
