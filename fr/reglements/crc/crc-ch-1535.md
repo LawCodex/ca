@@ -1,0 +1,132 @@
+---
+title: Décret soustrayant certaines terres à l’aliénation (Grand lac des Esclaves T.N.-O.)
+identifier: C.R.C., ch. 1535
+long_title: Décret soustrayant à l’aliénation, mettant à part et affectant certaines terres des Territoires du Nord-Ouest aux fins d’un parc national
+type: regulation
+jurisdiction: ca
+language: fr
+last_amended: 2006-03-22
+consolidated: 2025-07-25
+status: in_force
+enabling_authority: LOI SUR LES TERRES TERRITORIALES
+source: https://laws-lois.justice.gc.ca/fra/reglements/C.R.C.,_ch._1535/
+retrieved: 2026-10-11
+---
+
+# Décret soustrayant certaines terres à l’aliénation (Grand lac des Esclaves T.N.-O.)
+
+Décret soustrayant à l’aliénation, mettant à part et affectant certaines terres des Territoires du Nord-Ouest aux fins d’un parc national
+
+## Titre abrégé
+
+### Article 1
+
+Le présent décret peut être cité sous le titre : Décret soustrayant certaines terres à l’aliénation (Grand lac des Esclaves T.N.-O.).
+
+## Soustraction à l’aliénation
+
+### Article 2
+
+Il est décrété, en vue de l’aménagement futur d’un parc national, que soient soustraites à l’aliénation en vertu de la Loi sur les terres territoriales les terres décrites dans l’annexe, y compris les minéraux qui se trouvent sous ces terres, sous réserve des droits des détenteurs des concessions minières enregistrées qui sont en règle.
+
+## Mise à part et affectation
+
+### Article 3
+
+Les terres décrites dans l’annexe sont mises à part et affectées en vue de l’aménagement futur d’un parc national.
+
+## ANNEXE (articles 2 et 3)
+
+La présente annexe concerne la parcelle ou étendue de terrain, de même que les terres submergées au Grand lac des Esclaves (T.N.-O.), et plus précisément décrites ci-après; les données topographiques mentionnées ont été établies d’après la carte n<sup>o</sup> 75 N.W. et 75 N.E. « Artillery Lake » (lac de l’Artillerie), tracée en 1966 à l’échelle de 1:500 000 par le ministère de l’Énergie, des Mines et des Ressources, à Ottawa (Ont.);
+
+À PARTIR d’un point situé sur le rivage nord-est de la baie McLeod, du Grand lac des Esclaves, à l’extrémité ouest d’une pointe de terre, soit à 62°50′20″ de latitude et 109°12′30″ de longitude, environ;
+
+DE LÀ, en droite ligne vers le nord-est, sur une distance d’environ six dixièmes de mille, jusqu’à un pic marqué par les Levés topographiques du Canada (station « Frost »), cette marque étant un repère et un trou de forage à 62°50′34″ de latitude et 109°11′20″ de longitude, environ;
+
+DE LÀ, en droite ligne vers le nord-est, jusqu’à la borne de géodésimétrie « Wye », c’est-à-dire la plaque de triangulation cimentée dans du roc et portant l’inscription 60900, à 62°54′31″ de latitude et 108°58′39″ de longitude, environ;
+
+DE LÀ, en droite ligne vers le nord-est, jusqu’à 63°00′00″ de latitude et 108°49′00″ de longitude;
+
+DE LÀ, en droite ligne vers le nord-est, jusqu’à 63°13′00″ de latitude et 108°04′00″ de longitude;
+
+DE LÀ, en droite ligne vers le nord, jusqu’au croisement du rivage sud-est de la baie Maufelly et de la rive droite du ruisseau le plus à l’est de deux ruisseaux sans nom, soit à 63°23′30″ de latitude et 108°07′30″ de longitude, environ;
+
+DE LÀ, vers le nord-ouest, le long du rivage nord-est de la baie Maufelly, jusqu’au croisement de ce dernier et de la rive gauche d’un ruisseau sans nom situé à l’extrémité nord-ouest de ladite baie, à 63°32′30″ de latitude et 108°27′30″ de longitude, environ;
+
+DE LÀ, en droite ligne vers le nord-est, jusqu’au repère 58 S 89 du Service des levés de l’armée, c’est-à-dire un jalon en cuivre fixé dans un rocher plat, à 63°42′17″ de latitude et 108°03′08″ de longitude, environ;
+
+DE LÀ, en droite ligne vers le sud-est, jusqu’à 63°32′00″ de latitude et 107°36′00″ de longitude;
+
+DE LÀ, en droite ligne vers le sud, jusqu’à 63°24′30″ de latitude et 107°36′00″ de longitude;
+
+DE LÀ, en droite ligne vers l’est, jusqu’à 63°24′30″ de latitude et 107°30′00″ de longitude;
+
+DE LÀ, en droite ligne vers le sud, jusqu’à 63°09′00″ de latitude et 107°30′00″ de longitude;
+
+DE LÀ, en droite ligne vers le sud-ouest, jusqu’à 63°03′00″ de latitude et 107°38′00″ de longitude;
+
+DE LÀ, en droite ligne vers le sud-ouest, jusqu’à la borne de géodésimétrie « Art », c’est-à-dire la plaque de triangulation cimentée dans du roc et portant l’inscription 60910, à 62°56′30″ de latitude et 107°57′45″ de longitude, environ;
+
+DE LÀ, en droite ligne vers le sud-ouest, jusqu’à 62°38′00″ de latitude et 108°53′00″ de longitude;
+
+DE LÀ, en droite ligne vers le nord-ouest, jusqu’au croisement de la rive droite du ruisseau sans nom qui se trouve immédiatement au nord du ruisseau Glacier, et du rivage est de la baie Charlton du Grand lac des Esclaves, à 62°42′10″ de latitude et 108°59′00″ de longitude, environ;
+
+DE LÀ, vers le nord, le nord-est et le nord-ouest, selon le cas, le long dudit rivage de la baie Charlton, jusqu’à l’extrémité ouest de la pointe de terre qui se trouve du côté sud d’un chenal situé à l’extrémité nord-est de la baie Charlton, soit à 62°47′20″ de latitude et 108°56′30″ de longitude, environ;
+
+DE LÀ, en droite ligne vers le nord, sur une distance d’environ 700 pieds, jusqu’au rivage nord-ouest de la baie Charlton, à l’extrémité sud de la pointe de terre située du côté nord dudit chenal;
+
+DE LÀ, vers le sud-ouest, le long du rivage nord-ouest de la baie Charlton, jusqu’à l’extrémité ouest de la pointe Fairchild, soit à 62°43′20″ de latitude et 109°11′00″ de longitude, environ;
+
+DE LÀ, en droite ligne vers l’ouest, jusqu’à un pic situé de l’autre côté de la baie McLeod et marqué sur les Levés topographiques du Canada station « Maufelly », cette marque étant un repère à 62°42′42″ de latitude et 109°19′45″ de longitude, environ;
+
+DE LÀ, en droite ligne vers l’ouest jusqu’au point le plus septentrional du rivage du lac New, soit 62°42′40″ de latitude et 109°27′30″ de longitude, environ;
+
+DE LÀ, en droite ligne vers le sud-ouest, jusqu’au point le plus à l’est du rivage de la baie Tochatoni, au Grand lac des Esclaves, soit 62°40′20″ de latitude et 109°40′30″ de longitude, environ;
+
+DE LÀ, vers l’ouest le long du rivage nord de la baie Tochatoni, jusqu’à l’extrémité ouest d’une pointe de terre située dans la presqu’île Douglas, à 62°40′10″ de latitude et 109°50′30″ de longitude, environ;
+
+DE LÀ, en droite ligne vers le sud-ouest, jusqu’à 62°32′00″ de latitude et 111°00′00″ de longitude;
+
+DE LÀ, en droite ligne vers le sud, jusqu’à 62°28′00″ de latitude et 111°00′00″ de longitude;
+
+DE LÀ, en droite ligne vers l’ouest, jusqu’à 62°28′00″ de latitude et 111°03′00″ de longitude;
+
+DE LÀ, en droite ligne vers le sud-est, jusqu’à 62°26′00″ de latitude et 111°00′00″ de longitude;
+
+DE LÀ, en droite ligne vers le sud-ouest, jusqu’à 62°16′00″ de latitude et 111°22′00″ de longitude;
+
+DE LÀ, en droite ligne vers le nord-ouest, jusqu’à 62°20′40″ de latitude et 111°36′00″ de longitude;
+
+DE LÀ, en droite ligne vers l’ouest, jusqu’à 62°20′40″ de latitude et 111°44′30″ de longitude;
+
+DE LÀ, en droite ligne vers le nord, jusqu’au rivage nord du Grand lac des Esclaves, à l’extrémité sud de la pointe Sachowia, soit à 62°22′00″ de latitude et 111°44′30″ de longitude, environ;
+
+DE LÀ, vers le nord-est, le long dudit rivage susmentionné en dernier lieu, jusqu’à l’extrémité est d’une pointe de terre, à 62°42′30″ de latitude et 111°22′00″ de longitude, environ;
+
+DE LÀ, en droite ligne vers le nord-est, jusqu’à 62°51′00″ de latitude et 110°47′00″ de longitude;
+
+DE LÀ, en droite ligne vers le sud, jusqu’au rivage du Grand lac des Esclaves, à l’extrémité ouest de la pointe Gibraltar, soit 62°48′00″ de latitude et 110°47′00″ de longitude, environ;
+
+DE LÀ, vers l’est, le long du rivage du Grand lac des Esclaves, du côté nord de la presqu’île Kahochella, jusqu’à l’extrémité nord d’une pointe de terre, soit à 62°50′00″ de latitude et 109°58′00″ de longitude, environ;
+
+DE LÀ, en droite ligne vers l’est à travers la baie McLeod, jusqu’au point de départ;
+
+Y COMPRIS toutes les îles qui se trouvent en entier ou en grande partie à moins d’un mille des parties du rivage de la baie Charlton mentionnées aux présentes;
+
+À L’EXCEPTION de la parcelle décrite ci-après et pour laquelle les données topographiques mentionnées ont été établies d’après la carte n<sup>o</sup> 75 K/15 « Parry Falls » (chute Parry), tracée en 1961 à l’échelle de 1:50 000 par ledit ministère :
+
+À PARTIR d’un pic d’environ 750 pieds d’altitude, situé du côté nord de la rivière Lockhart, à 62°49′15″ de latitude et 108°52′00″ de longitude, environ;
+
+DE LÀ, en droite ligne vers le nord-est, jusqu’à un pic d’environ 1 250 pieds d’altitude, à 62°51′30″ de latitude et 108°47′20″ de longitude;
+
+DE LÀ, en droite ligne vers le sud-est, jusqu’au point le plus septentrional du rivage d’un lac sans nom, soit à 62°50′40″ de latitude et 108°46′20″ de longitude, environ;
+
+DE LÀ, vers le sud-ouest le long dudit rivage, jusqu’à son point le plus à l’ouest;
+
+DE LÀ, en droite ligne vers le sud-ouest, jusqu’au point le plus septentrional du rivage d’un lac sans nom, soit à 62°49′40″ de latitude et 108°47′15″ de longitude, environ;
+
+DE LÀ, en droite ligne vers le sud-ouest, jusqu’au point le plus septentrional du rivage d’un lac sans nom, soit à 62°48′45″ de latitude et 108°50′30″ de longitude, environ;
+
+DE LÀ, en droite ligne vers le nord-ouest, jusqu’au point de départ.
+
+Toutes les coordonnées susmentionnées sont géodésiques et conformes à celles de la Station-origine de la triangulation américaine de 1927; la superficie résiduelle étant d’environ 2 800 milles carrés.

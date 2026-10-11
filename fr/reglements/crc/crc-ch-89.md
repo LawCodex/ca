@@ -1,0 +1,116 @@
+---
+title: Règlement de zonage de l’aéroport de Kelowna
+identifier: C.R.C., ch. 89
+long_title: Règlement de zonage concernant l’aéroport de Kelowna
+type: regulation
+jurisdiction: ca
+language: fr
+last_amended: 2006-03-22
+consolidated: 2025-07-25
+status: in_force
+enabling_authority: LOI SUR L’AÉRONAUTIQUE
+source: https://laws-lois.justice.gc.ca/fra/reglements/C.R.C.,_ch._89/
+retrieved: 2026-10-11
+---
+
+# Règlement de zonage de l’aéroport de Kelowna
+
+Règlement de zonage concernant l’aéroport de Kelowna
+
+## Titre abrégé
+
+### Article 1
+
+Le présent règlement peut être cité sous le titre : Règlement de zonage de l’aéroport de Kelowna.
+
+## Interprétation
+
+### Article 2
+
+Dans le présent règlement,
+
+***aéroport*** désigne celui de Kelowna, dans la province de la Colombie-Britannique; (***airport***)
+
+***bande*** désigne la partie rectangulaire de l’aire d’atterrissage de l’aéroport comprenant la piste spécialement aménagée pour le décollage et l’atterrissage des aéronefs dans une direction déterminée, cette bande étant décrite à la partie V de l’annexe; (***strip***)
+
+***ministre*** désigne le ministre des Transports; (***Minister***)
+
+***point de repère de l’aéroport*** désigne le point déterminé de la manière visée à la partie I de l’annexe; (***airport reference point***)
+
+***surface d’approche*** désigne le plan incliné imaginaire s’étendant vers le haut et vers l’extérieur à partir de chaque extrémité d’une bande, dans le sens de prolongement de l’axe de cette bande et perpendiculairement à cet axe, cette surface d’approche étant décrite à la partie III de l’annexe; (***approach surface***)
+
+***surface de transition*** désigne le plan incliné imaginaire s’étendant vers le haut et vers l’extérieur à partir des limites latérales d’une bande et de ses surfaces d’approche, cette surface de transition étant décrite à la partie VI de l’annexe; (***transitional surface***)
+
+***surface extérieure*** désigne la surface imaginaire située au-dessus et dans le voisinage immédiat de l’aéroport, cette surface extérieure étant décrite à la partie IV de l’annexe. (***outer surface***)
+
+### Article 3
+
+Pour l’application du présent règlement, le point de repère de l’aéroport est à 1 371 pieds au-dessus du niveau de la mer.
+
+## Application
+
+### Article 4
+
+Le présent règlement s’applique à tous les terrains, y compris les terrains recouverts d’eau, les emprises de voies publiques, contigus à l’aéroport ou situés dans son voisinage, dont les limites extérieures sont décrites à la partie II de l’annexe, à l’exclusion des terrains pouvant éventuellement faire partie de l’aéroport.
+
+## Dispositions générales
+
+### Article 5
+
+Il est interdit d’ériger ou de construire sur un terrain, visé par le présent règlement, des édifices, ouvrages ou objets, ou de faire des rajouts aux édifices, ouvrages ou objets existant, dont le sommet serait plus élevé que l’une des surfaces qui se situent juste au-dessus de la surface du terrain à cet endroit, à savoir :
+
+- **a)** les surfaces d’approche;
+
+- **b)** la surface extérieure; ou
+
+- **c)** les surfaces de transition.
+
+## Végétation
+
+### Article 6
+
+Au propriétaire ou à l’occupant d’un terrain, visé par le présent règlement, où la végétation croît au-delà du niveau des surfaces mentionnées à l’article 5, le ministre peut établir une directive ordonnant d’enlever l’excédent de végétation.
+
+*DORS/81-173, art. 1*
+
+### Article 7
+
+[Abrogé, DORS/81-173, art. 1]
+
+## ANNEXE (articles 2 et 4)
+
+### PARTIE I — Point de repère de l’aéroport
+
+Un point situé perpendiculairement et à deux cent cinquante (250) pieds à l’ouest du prolongement de l’axe de la piste 15-33, prolongement de quatre mille (4 000) pieds mesurés en direction sud à partir de l’extrémité nord de ladite piste.
+
+### PARTIE II — Limites extérieures des terrains
+
+COMMENÇANT à l’angle nord-ouest du quartier nord-est de la section 26, canton 23; puis en direction est, le long de la limite nord dudit quartier nord-est de la section 26 jusqu’à l’angle nord-est dudit quartier nord-est de la section 26; puis en direction sud-est jusqu’à un point sur la limite est du quartier nord-ouest, section 25, canton 23, situé à cinq cents (500) pieds au sud de l’angle nord-est dudit quartier nord-ouest de la section 25; puis en direction sud-est jusqu’à l’angle sud-est dudit quartier nord-est de la section 25, canton 23; puis en direction est, le long de la limite nord du quartier sud-ouest de la section 30, canton 24 jusqu’à l’angle nord-est dudit quartier sud-ouest de la section 30; puis en direction sud-est jusqu’à un point sur la limite sud dudit quartier sud-est de la section 30, canton 24, situé à mille deux cents (1 200) pieds à l’ouest de l’angle sud-est dudit quartier sud-est de la section 30, canton 24; puis en direction sud-est jusqu’à l’angle sud-est du quartier nord-est de la section 19, canton 24; puis en direction sud-est jusqu’à un point sur la limite sud du quartier sud-ouest de la section 20, canton 24, situé à mille deux cent cinquante (1 250) pieds à l’est de l’angle sud-ouest dudit quartier sud-ouest de la section 20; puis en direction sud jusqu’à un point sur la limite sud du quartier nord-ouest de la section 17, canton 24, situé à mille cinq cents (1 500) pieds à l’est de l’angle sud-ouest du quartier nord-ouest de la section 17; puis en direction sud jusqu’à un point sur la limite sud du quartier sud-ouest de la section 17, canton 24, situé à mille deux cents (1 200) pieds à l’est de l’angle sud-ouest du quartier sud-ouest de la section 17; puis en direction sud-ouest jusqu’à l’angle sud-ouest du quartier nord-ouest de la section 8, canton 24; puis en direction sud-ouest jusqu’à l’angle le plus à l’est du plan B4260; puis en direction sud-ouest, le long de la limite sud dudit plan B4260 jusqu’à l’angle le plus au sud dudit plan B4260; puis en direction ouest, le long de la limite sud de la parcelle B, plan B6935 jusqu’à l’angle sud-ouest de ladite parcelle B, plan B6935; puis en traversant le chemin Scottie Creek jusqu’à l’angle le plus à l’est de la partie restante du lot 33, plan 1760; puis en direction sud-ouest, le long de la limite sud-est de ladite partie restante du lot 33, plan 1760 jusqu’à l’angle nord-est de la parcelle B, plan 13115; puis en direction sud, le long de la limite est de ladite parcelle B plan 13115 jusqu’à l’angle sud-est de ladite parcelle B, plan 13115; puis en direction sud le long de la limite est du lot 2, plan 7625 jusqu’à l’angle sud-est dudit lot 2, plan 7625; puis en direction ouest le long de la limite sud dudit lot 2 plan 7625 jusqu’à l’angle sud-ouest dudit lot 2, plan 7625; puis en direction ouest en traversant le chemin Lakha jusqu’à la limite est du lot 7, plan 1611; puis en direction sud le long de la limite est dudit lot 7, plan 1611 jusqu’à son angle sud-est du lot 7 plan 1611; puis en direction sud, le long de la limite est du lot 4, plan 3896 jusqu’à l’angle sud-est du lot 4, plan 3896; puis en direction ouest et sud-ouest, le long de la limite sud dudit lot 4, plan 3896 jusqu’à l’angle sud-ouest dudit lot 4, plan 3896, puis en direction sud-ouest et ouest, le long de la limite sud du lot A, plan 25721 jusqu’à l’angle sud-ouest dudit lot A, plan 25721; puis en direction nord-ouest en traversant le vieux chemin Vernon jusqu’à l’angle sud-est du lot 3, plan 3874; puis en direction ouest, le long de la limite sud dudit lot 3, plan 3874 jusqu’à l’angle sud-ouest dudit lot 3, plan 3874; puis en direction ouest, le long de la limite sud du lot 2, plan 3874 jusqu’à l’angle sud-ouest dudit lot 2, plan 3874; puis en direction nord, le long de la limite ouest dudit lot 2, plan 3874 jusqu’à l’angle sud-est de la partie restante du lot 1, plan 4183; puis en direction ouest, le long de la limite sud de ladite partie restante du lot 1, plan 4183 jusqu’à l’angle sud-est du lot B, plan 22129; puis en direction ouest, le long de la limite sud du lot B, plan 22129 jusqu’à l’angle sud-ouest du lot B, plan 22129; puis en direction ouest, le long de la limite sud du lot A, plan 22129 jusqu’à l’angle sud-ouest dudit lot A, plan 22129; puis en direction ouest, le long de la limite sud de la moitié est de la partie restante du lot B, plan 4784 jusqu’à l’angle sud-est de ladite moitié est du lot B, plan 4784; puis en direction ouest, le long de la limite sud de la partie restante du lot B, plan 4784 jusqu’à l’angle sud-est du lot B, plan 16931; puis en direction ouest, le long de la limite sud dudit lot B, plan 16931 jusqu’à l’angle sud-ouest dudit lot B, plan 16931; puis en direction ouest, le long de la limite sud du lot A, plan 16931 jusqu’à l’angle sud-ouest du lot A, plan 16931; puis en direction ouest, le long de la limite sud de la partie restante du lot A, plan 4784 jusqu’à l’angle sud-ouest de la partie restante du lot A, plan 4784; puis en direction sud-ouest en traversant la route nationale 97 jusqu’à l’angle sud-est du lot 2, plan 20412; puis en direction ouest, le long de la limite sud du lot 2, plan 20412 jusqu’à son angle sud-ouest dudit lot 2, plan 20412; puis en direction ouest, le long de la limite sud du lot 1, plan 20412 jusqu’à l’angle sud-ouest dudit lot 1, plan 20412; puis en direction ouest, le long de la limite sud du lot A, plan 23284 jusqu’à l’angle sud-ouest dudit lot A, plan 23284; puis en direction ouest, le long de la limite sud du lot B, plan 23284 jusqu’à l’angle sud-ouest dudit lot B, plan 23284; puis en direction ouest, le long de la limite sud du lot C, plan 23284 jusqu’à l’angle sud-ouest dudit lot C, plan 23284; puis en traversant l’emprise du chemin de fer du Canadien National indiquée sur les plans M373 et R258 jusqu’à l’angle sud-est de la partie restante du quartier sud-ouest de la section 2, canton 23; puis en direction ouest, le long de la limite sud de ladite partie restante du quartier sud-ouest de la section 2, canton 23 et jusqu’à l’angle sud-ouest de ladite partie restante du quartier sud-ouest, de la section 2, canton 23; puis en direction nord-ouest jusqu’à l’angle nord-ouest du quartier nord-ouest du quartier sud-est de la section 3, canton 23; puis en direction nord, le long de la limite est du lot 1, bloc 23, plan 1249 jusqu’à l’angle nord-est dudit lot 1, bloc 23, plan 1249; puis en traversant le fossé de l’emprise qui apparaît sur le plan 1249 jusqu’à l’angle sud-est du lot 5, bloc 23, plan 1249; puis en direction sud-ouest, le long de la limite sud dudit lot 5, bloc 23, plan 1249 jusqu’à l’angle sud-ouest dudit lot 5, bloc 23, plan 1249; puis en direction nord-ouest, le long de la limite ouest dudit lot 5, bloc 23, plan 1249 jusqu’à l’angle nord-ouest dudit lot 5, bloc 23, plan 1249; puis en traversant le fossé de l’emprise indiquée sur le plan 1249 jusqu’à l’angle le plus à l’est du lot 9, plan 20573; puis en direction sud-ouest, le long de la limite sud-est dudit lot 9, plan 20573 jusqu’à l’angle le plus au sud dudit lot 9, plan 20573; puis en direction sud-ouest, le long de la limite sud-est du lot 8, plan 20573 jusqu’à l’angle le plus au sud dudit lot 8, plan 20573; puis en direction nord-ouest, le long de la limite sud-ouest dudit lot 8, plan 20573 jusqu’à l’angle le plus à l’ouest dudit lot 8, plan 20573; puis en direction ouest, en traversant le chemin Curtis jusqu’à l’angle sud-est du lot 5, bloc 16, plan 1068; puis en direction ouest, le long de la limite sud dudit lot 5, bloc 16, plan 1068 jusqu’à l’angle sud-ouest du lot 5, bloc 16, plan 1068; puis en direction nord, le long de la limite ouest dudit lot 5, bloc 16, plan 1068 jusqu’à l’angle nord-ouest dudit lot 5, bloc 16, plan 1068; puis en direction ouest, en traversant l’emprise de la route qui apparaît au plan H8323 jusqu’à l’angle le plus au sud du lot 27, bloc 10, plan 1068; puis en direction nord-ouest, le long de la limite sud-ouest dudit lot 27, bloc 10, plan 1068 jusqu’à l’angle le plus à l’ouest du lot 27, bloc 10, plan 1068; puis en direction nord-ouest et nord, le long de la limite ouest du lot 2, bloc 19, plan 1884; puis en direction ouest et nord, le long de la limite ouest du lot 1, bloc 19, plan 1884 jusqu’à l’angle sud-est du lot 6, bloc 19, plan 1884; puis en direction ouest, le long de la limite sud dudit lot 6, bloc 19, plan 1884 jusqu’à l’angle sud-ouest dudit lot 6, bloc 19, plan 1884; puis en direction nord, le long de la limite ouest dudit lot 6, bloc 19, plan 1884 jusqu’à l’angle le plus au sud du lot 3, bloc 10, plan 1068; puis en direction nord-ouest, le long de la limite sud-ouest dudit lot 3, bloc 10, plan 1068 jusqu’à son angle le plus à l’ouest dudit lot 3, bloc 10, plan 1068; puis en direction nord, en traversant le chemin Glenmore jusqu’à l’angle le plus au sud du lot 2, bloc 11, plan 1068; puis en direction nord-ouest, le long de la limite sud-ouest dudit lot 2, bloc 11, plan 1068 jusqu’à l’angle le plus à l’ouest dudit lot 2, bloc 11, plan 1068; puis en direction nord-est, le long de la limite nord-ouest dudit lot 2, bloc 11, plan 1068 jusqu’à l’angle le plus au sud du lot 1, plan 2237; puis en direction nord, le long de la limite ouest dudit lot 1, plan 2237 jusqu’à l’angle nord-ouest dudit lot 1, plan 2237; puis en direction nord, le long de la limite ouest de la partie restante du lot 4, plan 16293 jusqu’à l’angle nord-ouest de la partie restante du lot 4, plan 16293; puis en direction nord, le long de la limite ouest du lot B, plan 19441 jusqu’à l’angle nord-ouest dudit lot B, plan 19441; puis en direction nord, le long de la limite ouest du lot 1, plan 23026 jusqu’à l’angle nord-ouest dudit lot 1, plan 23026; puis en direction nord, le long de la limite ouest de la partie restante du lot A, plan 19441 jusqu’à l’angle nord-ouest de la partie restante du lot A, plan 19441; puis en direction est, le long de la limite nord de ladite partie restante du lot A, plan 19441 jusqu’à l’angle sud-ouest du lot C, plan 17265; puis en direction nord-est, le long de la limite ouest dudit lot C, plan 17265 jusqu’à l’angle nord-ouest dudit lot C, plan 17265; puis en direction nord-est, en traversant le chemin McKinley Landing et en traversant le lot A, plan 17265 et la partie restante de la parcelle A, plan 5353 jusqu’à l’angle sud-ouest du lot A, plan 22105; puis en direction est, le long de la limite sud dudit lot A, plan 22105 jusqu’à l’angle sud-est dudit lot A, plan 22105; puis en direction nord, le long de la limite est dudit lot A, plan 22105 jusqu’à l’angle nord-est dudit lot A, plan 22105; puis en direction nord, le long de la limite est du lot B, plan 22105 jusqu’à l’angle nord-est dudit lot B, plan 22105; puis en direction nord-est, en traversant le chemin Glenmore jusqu’à l’angle nord-ouest de la partie restante du quartier nord-est de la section 21, canton 23; puis en direction est, le long de la limite nord du quartier nord-est de la section 21, canton 23 jusqu’à l’angle nord-est dudit quartier nord-est, de la section 21, canton 23; puis en direction nord, le long de la limite ouest du quartier sud-ouest de la section 27, canton 23, sur huit cents (800) pieds; puis en direction nord-est, jusqu’à un point sur la limite nord dudit quartier sud-ouest de la section 27, canton 23, situé à six cent soixante (660) pieds à l’ouest, à partir de l’angle nord-est dudit quartier sud-ouest, de la section 27, canton 23; puis en direction est, le long de la limite nord du quartier sud-ouest de la section 27, canton 23, sur six cent soixante (660) pieds jusqu’à l’angle nord-est du quartier sud-ouest de la section 27, canton 23; puis en direction nord-est, jusqu’à un point sur la limite ouest du quartier nord-ouest de la section 26, canton 23, situé à mille (1 000) pieds au sud de l’angle nord-ouest dudit quartier nord-ouest de la section 26, canton 23; puis en direction nord-est, jusqu’à l’angle nord-ouest dudit quartier nord-est de la section 26, canton 23, ledit point étant le point de départ indiqué en jaune sur le plan n<sup>o</sup> B.C. 1205 A, B, C, du ministère des Transports, daté du 7 mars 1977.
+
+### PARTIE III — Surfaces d’approche
+
+Surfaces dont la limite inférieure touche à chacune des extrémités de la bande associée à la piste 15-33 et décrites plus en détail ci-dessous :
+
+- **a)** une surface dont la limite inférieure touche à l’extrémité de la bande associée à l’approche de la piste 15, constituée d’un plan incliné à raison de un (1) pied dans le sens vertical contre quarante (40) pieds dans le sens horizontal qui s’élève jusqu’à l’intersection de la surface extérieure. Puis cette surface d’approche devient horizontale et attenante à la surface extérieure jusqu’à son intersection avec l’extrémité nord de ladite surface extérieure, puis cette surface d’approche s’élève à raison de un (1) pied dans le sens vertical contre quarante (40) pieds dans le sens horizontal jusqu’à un plan horizontal imaginaire, perpendiculairement au prolongement de l’axe de la bande, à dix mille (10 000) pieds, dans le sens horizontal, de l’extrémité de la bande, les extrémités extérieures de la ligne horizontale imaginaire étant à mille deux cent cinquante (1 250) pieds du prolongement de l’axe de la piste; ce plan horizontal imaginaire est mesuré verticalement à cent soixante-six (166) pieds au-dessus du point de repère de l’aéroport, et
+
+- **b)** une surface dont la limite inférieure touche à l’extrémité de la bande associée à l’approche de la piste 33 constituée d’un plan incliné à raison de un (1) pied dans le sens vertical contre quarante (40) pieds dans le sens horizontal qui s’élève jusqu’à l’intersection de la surface extérieure. Puis cette surface d’approche devient horizontale et attenante à la surface extérieure jusqu’à son intersection avec l’extrémité nord de ladite surface extérieure, puis cette surface d’approche s’élève à raison de un (1) pied dans le sens vertical contre quarante (40) pieds dans le sens horizontal jusqu’à un plan horizontal imaginaire perpendiculairement au prolongement de l’axe de la bande à dix mille (10 000) pieds, dans le sens horizontal, de l’extrémité de la bande, les extrémités extérieures de la ligne horizontale imaginaire étant à mille deux cent cinquante (1 250) pieds du prolongement de l’axe de la piste; ce plan horizontal imaginaire est mesuré verticalement à cent soixante-dix-neuf (179) pieds au-dessus du point de repère de l’aéroport,
+
+ces surfaces d’approche, apparaissant en contours bleus, sur le plan n<sup>o</sup> B.C. 1205 A, B, C, du ministère des Transports, daté du 7 mars 1977.
+
+### PARTIE IV — Surfaces extérieures
+
+Chacune des surfaces extérieures est une surface imaginaire constituée
+
+- **a)** d’un plan commun établi à une hauteur constante de cent cinquante (150) pieds au-dessus de l’altitude désignée du point de repère de l’aéroport, et
+
+- **b)** d’une surface imaginaire située à trente (30) pieds au-dessus de la surface du sol, lorsque le plan commun décrit à l’alinéa a) est à moins de trente (30) pieds au-dessus de la surface du sol,
+
+cette surface extérieure apparaissant, en contours jaune, sur le plan n<sup>o</sup> B.C. 1205 A, B, C, du ministère des Transports, daté du 7 mars 1977.
+
+### PARTIE V — Bande
+
+La bande est décrite comme suit : la bande associée à l’approche de la piste 15-33 est de cinq cents (500) pieds de largeur, soit deux cent cinquante (250) pieds de chaque côté de l’axe de la piste, et de huit mille quatre cents (8 400) pieds de longueur; cette bande apparaissant, en contours vert, sur le plan n<sup>o</sup> B.C. 1205 A, B, C, du ministère des Transports, daté du 7 mars 1977.
+
+### PARTIE VI — Surfaces de transition
+
+Chacune des surfaces de transition est une surface constituée d’un plan incliné qui s’élève à raison de un (1) pied dans le sens vertical contre sept (7) pieds dans le sens horizontal, perpendiculairement à l’axe et au prolongement de l’axe de la bande, et qui s’étend vers le haut et vers l’extérieur à partir des limites latérales de la bande et de ses surfaces d’approche, jusqu’à une hauteur de cent cinquante (150) pieds, mesurée verticalement au-dessus du point de repère de l’aéroport; cette surface apparaissant, en contours rouge, sur le plan n<sup>o</sup> B.C. 1205 A, B, C, du ministère des Transports, daté du 7 mars 1977.
